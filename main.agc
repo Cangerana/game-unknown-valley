@@ -4,7 +4,6 @@
 
 // show all errors
 SetErrorMode(2)
-
 // set window properties
 SetWindowTitle( "game-unknown-valley" )
 SetWindowSize( 1024, 768, 0 )
