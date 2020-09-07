@@ -55,9 +55,9 @@ FILE_1=SetCharacterX.agc;-1
 FILE_2=SetMovimentationCharacterX.agc;-1
 
 [files]
-FILE_NAME_0=0;main.agc;712;0
+FILE_NAME_0=1;main.agc;712;0
 FILE_NAME_1=0;SetCharacterX.agc;0;1
-FILE_NAME_2=1;SetMovimentationCharacterX.agc;0;2
+FILE_NAME_2=0;SetMovimentationCharacterX.agc;0;2
 
 [project]
 description=
